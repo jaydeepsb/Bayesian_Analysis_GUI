@@ -9,7 +9,7 @@ In many occassions in research, we need to compare any two sets of measurements 
 
 There exist many Python/R packages that allow the scientists to perform detailed bayesian analysis.
 However, to even run a simple test dataset, it required a large amount of efforts in installation, understandign of programming language (Python or R), and experience in tweaking the model parameters and debugging in the whole process.
-To cut short all the time and efforts required for a non-coder, or even for myself, to repeatatively run similar statistical task in an efficient manner, I decided to develop a web-tool. As a first release, it has already been a huge help for my colleagues in the computational biology research lab, promoting more the bayesian approach over t-test, as it is evident by our recent publications, where we incorporated this Bayesian approach in supporting our scientific observations/conclusions.
+To cut short all the time and efforts required for a non-coder, or even for myself, to repeatatively run similar statistical task in an efficient manner, I decided to develop a web-tool, using PyMC3 package. As a first release, it has already been a huge help for my colleagues in the computational biology research lab, promoting more the bayesian approach over t-test, as it is evident by our recent publications, where we incorporated this Bayesian approach in supporting our scientific observations/conclusions.
 
 ## Why Bayesian Parameter Estimation is superior to, e.g., traditional t-Test?
 
@@ -21,3 +21,8 @@ In short, full Bayesian Parameter Estimation method is a robust method in quanti
 * Note, this tool is still under development, and I am adding more and more features to make it a varsatile and all-round tool.
 
  ![image_2](https://github.com/jaydeepsb/Bayesian_Analysis_GUI/blob/main/images/bayesian_results.png)
+
+
+Ref:
+
+PyMC3, https://www.pymc.io/projects/docs/en/v3/index.html
