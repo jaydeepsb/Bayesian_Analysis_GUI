@@ -1,0 +1,42 @@
+/* restyle radio items */
+.radio-group .form-check {
+    padding-left: 0;
+  }
+  
+  .radio-group .btn-group > .form-check:not(:last-child) > .btn {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  
+  .radio-group .btn-group > .form-check:not(:first-child) > .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: -1px;
+  }
+
+/* Override styles for specific components */
+.dash-graph {
+    background-color: #666666;
+}
+
+.dash-table {
+    background-color: #777777;
+    color: white;
+}
+
+/* Add your own custom styles as needed */
+
+.divBorder{
+    border: 1px solid lightsteelblue;
+    border-radius: 5;
+   }
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    background-color: #333;
+
+    margin: 100px auto;
+    -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
+    animation: sk-rotateplane 1.2s infinite ease-in-out;
+}
