@@ -1,8 +1,11 @@
 # Bayesian_Analysis_GUI
 
- ![GUI screenshot](https://github.com/jaydeepsb/ Bayesian_Analysis_GUI/images/thumbnail.png)
+ ![GUI screenshot](https://github.com/jaydeepsb/Bayesian_Analysis_GUI/images/thumbnail.png)
 
 ## Why a Bayesian Analysis GUI tool?
+
+In many occassions in research, we need to compare any two sets of measurements to qunatify if there is any statistically significant difference or similarity.
+
 
 There exist many Python/R packages that allow the scientists to perform detailed bayesian analysis.
 However, to even run a simple test dataset, it required a large amount of efforts in installation, understandign of programming language (Python or R), and experience in tweaking the model parameters and debugging in the whole process.
