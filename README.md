@@ -18,11 +18,12 @@ However, these traditional methods suffer many drawback, for example, two popula
 
 In short, full Bayesian Parameter Estimation method is a robust method in quantifying the significance in difference or similarity between any two populations under study.
 
-* Note, this tool is still under development, and I am adding more and more features to make it a varsatile and all-round tool.
-
  ![image_2](https://github.com/jaydeepsb/Bayesian_Analysis_GUI/blob/main/images/bayesian_results_1.png)
+
+* Note, this tool is still under development, and I am adding more and more features to make it a varsatile and all-round tool.
 
 
 Ref:
 
 PyMC3, https://www.pymc.io/projects/docs/en/v3/index.html
+https://ccrma.stanford.edu/~jos/bayes/Bayesian_Parameter_Estimation.html
