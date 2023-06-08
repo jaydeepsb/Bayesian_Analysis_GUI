@@ -4,7 +4,7 @@
 
 ## Why a Bayesian Analysis GUI tool?
 
-In many occassions in research, we need to compare any two sets of measurements to qunatify if there is any statistically significant difference or similarity.
+In many occassions in research, we need to compare any two sets of measurements to quntify if there is any statistically significant difference or similarity.
 
 
 There exist many Python/R packages that allow the scientists to perform detailed bayesian analysis.
