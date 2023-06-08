@@ -25,5 +25,5 @@ In short, full Bayesian Parameter Estimation method is a robust method in quanti
 
 Ref:
 
-PyMC3, https://www.pymc.io/projects/docs/en/v3/index.html
-https://ccrma.stanford.edu/~jos/bayes/Bayesian_Parameter_Estimation.html
+* PyMC3, https://www.pymc.io/projects/docs/en/v3/index.html
+* https://ccrma.stanford.edu/~jos/bayes/Bayesian_Parameter_Estimation.html
