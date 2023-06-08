@@ -20,7 +20,7 @@ In short, full Bayesian Parameter Estimation method is a robust method in quanti
 
 * Note, this tool is still under development, and I am adding more and more features to make it a varsatile and all-round tool.
 
- ![image_2](https://github.com/jaydeepsb/Bayesian_Analysis_GUI/blob/main/images/bayesian_results.png)
+ ![image_2](https://github.com/jaydeepsb/Bayesian_Analysis_GUI/blob/main/images/bayesian_results_1.png)
 
 
 Ref:
