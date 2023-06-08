@@ -1,6 +1,6 @@
 # Bayesian_Analysis_GUI
 
- ![GUI screenshot](https://github.com/jaydeepsb/Bayesian_Analysis_GUI/images/thumbnail.png)
+ !(https://github.com/jaydeepsb/Bayesian_Analysis_GUI/images/thumbnail.png)
 
 ## Why a Bayesian Analysis GUI tool?
 
